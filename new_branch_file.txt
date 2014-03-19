@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>Gon' Do It</title>
+    <link type='text/css' rel='stylesheet' href=''/>
+  </head>
+
+  <body charset='UTF-8'>
+  </body>
+  <script src='' type='text/jss' rel='lil_script'/>
+</html>
